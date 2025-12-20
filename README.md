@@ -1,2 +1,2 @@
 # Python-Projects
-Repository dedcated to Python Projects
+Repository dedicated to Python Projects
