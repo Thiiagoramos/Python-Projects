@@ -76,6 +76,6 @@ python Otimizacao_Sistema_Bancario_POO.py
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Thiago Ramos** — [LinkedIn](https://www.linkedin.com/in/thiago-ramos-a86107279)
